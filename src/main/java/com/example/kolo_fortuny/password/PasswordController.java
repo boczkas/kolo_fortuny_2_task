@@ -23,8 +23,11 @@ public class PasswordController {
     @ResponseBody
     public String getPassword() {
 //  Przerób swoją implementację z poprzedniego zadania tak, aby hasło było zapisane
-//  i stałe w czasie pojedynczego uruchomienia aplikacji
-//        Czy metoda musi coś zwracać?
+//  i stałe w czasie pojedynczego uruchomienia aplikacji.
+//  Na front end powinno być zwracane:
+//        ??? ?? ????
+//        dla
+//        Ala ma kota
         return "";
     }
 }
