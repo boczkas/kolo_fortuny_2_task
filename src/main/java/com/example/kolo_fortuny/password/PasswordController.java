@@ -22,7 +22,9 @@ public class PasswordController {
     @GetMapping("/password")
     @ResponseBody
     public String getPassword() {
-//        Napisz implementację, która będzie zwracać nowe losowe słowo z WordList.getWORDS()
+//  Przerób swoją implementację z poprzedniego zadania tak, aby hasło było zapisane
+//  i stałe w czasie pojedynczego uruchomienia aplikacji
+//        Czy metoda musi coś zwracać?
         return "";
     }
 }
