@@ -21,13 +21,15 @@ public class PasswordController {
     @CrossOrigin(origins = "http://localhost:4200")
     @GetMapping("/password")
     @ResponseBody
-    public String getPassword() {
+    public Password getPassword() {
 //  Przerób swoją implementację z poprzedniego zadania tak, aby hasło było zapisane
 //  i stałe w czasie pojedynczego uruchomienia aplikacji.
-//  Na front end powinno być zwracane:
+//  Na front end powinno być zwracane w postaci:
 //        ??? ?? ????
 //        dla
 //        Ala ma kota
-        return "";
+//
+//  Zapisz również postać "pytajnikową" w currentGuess
+        return null;
     }
 }
