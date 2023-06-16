@@ -3,7 +3,6 @@ package com.example.kolo_fortuny.password;
 import java.util.List;
 
 public class WordList {
-    //    wywalić polskie znaki
     private static List<String> WORDS = List.of(
             "abc",
             "co nagle to po diable",
