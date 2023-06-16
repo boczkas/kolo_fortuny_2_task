@@ -27,7 +27,7 @@ public class PasswordController {
 //  Na front end powinno być zwracane w postaci:
 //        ??? ?? ????
 //        dla
-//        Ala ma kota
+//        ala ma kota
 //
 //  Zapisz również postać "pytajnikową" w currentGuess
         return null;
